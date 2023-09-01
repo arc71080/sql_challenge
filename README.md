@@ -6,6 +6,7 @@ This research project used the surviving CSV data files from Pewlett Hackard on 
 
 ### Data Modeling
 ERD
+
 ![QuickDBD-export](https://github.com/arc71080/sql_challenge/assets/137009177/74fb4c9e-6afe-449b-a984-cd7605101e80)
 
 ### Data Engineering
